@@ -4,3 +4,4 @@
 
 ~~This was mistaken text~~
 **Bold**
+Bold
