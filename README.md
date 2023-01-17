@@ -36,3 +36,6 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 * Thomas Jefferson
 * Me
 
+1. First list item
+   - First nested list item
+     - Second nested list item
