@@ -5,4 +5,4 @@
 ~~This was mistaken text~~
 **Bold**
 Bold
-Hello I want to try superscript <sup> hre it is </sup>
+Hello I want to try superscript <sub> hre it is </sub>
